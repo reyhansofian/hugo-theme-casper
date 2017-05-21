@@ -1182,7 +1182,7 @@ body:not(.post-template) .post-title {
 .post-footer {
     position: relative;
     margin: 6rem 0 0 0;
-    padding: 6rem 0 0 0;
+    padding: 6rem 0 4rem 0;
     border-top: #EBF2F6 1px solid;
 }
 
